@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/leorzsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorzsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="177em" width="300em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fcomics-portugues%2Fpage%2Fitem%2Fhomem-aranha%2FNBgW_pLhWIWbdrG1lVPw88RqmBlwWKmkZ8&psig=AOvVaw1MU1N9FD-KglNy7q2U8mlr&ust=1645646640781000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjqt8-NlPYCFQAAAAAdAAAAABAD">
+  <img height="177em" width="300em" src="https://discord.com/channels/461227086728790017/901196591778648064/945773377006759936">
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
