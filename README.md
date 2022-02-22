@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/leorzsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorzsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="177em" width="300em" src="https://discord.com/channels/461227086728790017/901196591778648064/945773377006759936">
+  <img height="177em" width="300em" src="https://cdn.discordapp.com/attachments/901196591778648064/945773376805408828/48211326d3d70aa39a881b7909d050305ed89df5_00.gif">
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
