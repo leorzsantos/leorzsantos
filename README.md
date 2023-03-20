@@ -1,6 +1,6 @@
 ### Olá, Bem-vindo ao meu Mundo 🤙🏾
 
-- 🔭 Atualmente trabalhando como Técnico em Suporte
+- 🔭 Atualmente trabalhando como Desenvolvedor Front/Back-End
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 💬 Contate-me no e-mail: leorezende742@hotmail.com
 - 😄 Pronouns: ele/dele
